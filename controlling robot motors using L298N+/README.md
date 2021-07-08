@@ -13,7 +13,7 @@
 
 ### Implementation Steps
 
-* connect the Arduino and L298N ports as following: 
+ connect the Arduino and L298N ports as following: 
 | Arduino  | L298N     |
 | ---      | ---       |
 | 13       | Enaple A  |
