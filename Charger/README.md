@@ -4,7 +4,7 @@
 
 ### This is a circuit design for charging `LIPO` battery 
 
-The Input will be 220 v with 60 frequency ac, so I designed the circuit to give output 11.1 v and 220mA `why I chose 220mA? because, to charge the battery you need to supply it by 10% current of its capacity, so 10% of 2200mAh is 220mA`
+The Input will be 220 v with 60 frequency ac, so I designed the circuit to give output 11.1v `same battery` and 220mA `why I chose 220mA? because, to charge the battery you need to supply it by 10% current of its capacity, so 10% of 2200mAh is 220mA`
 
 
 ### Implementation Steps
