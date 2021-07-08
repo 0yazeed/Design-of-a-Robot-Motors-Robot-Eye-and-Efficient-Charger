@@ -4,10 +4,10 @@
 
 ### Used equipments
 
-* Arduino
-* L298N Motor Driver
-* 2 motors 
-* **11.1 V & 2200mAH** Battery 
+* Arduino.
+* L298N Motor Driver.
+* 2 motors. 
+* **11.1 V & 2200mAH** Battery.
 
 
 
@@ -24,10 +24,10 @@
 | 8        | Enaple b  |
 
 
-* Connect the two motors in L298N ports `out1`,`out2`,`out3`,`out41`
+* Connect the two motors in L298N ports `out1`,`out2`,`out3`,`out41`.
 
 
-* Connect the `  LIPO  ` battery in L298N 
+* Connect the `  LIPO  ` battery in L298N.
 
 * The final step is Writing the code:
 
