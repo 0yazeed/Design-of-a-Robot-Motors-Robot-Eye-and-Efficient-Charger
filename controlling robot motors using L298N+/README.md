@@ -24,5 +24,5 @@ At first, I connect the Arduino and L298N ports as following:
 | 8        | Enaple b  |
 
 
-After that, I connect the two motors in L298N ports <out1,(out2),(out3),(out4)>
+After that, I connect the two motors in L298N ports `out1`,`out2`,`out3`,`out41`
 
