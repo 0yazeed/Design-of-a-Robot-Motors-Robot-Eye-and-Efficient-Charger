@@ -13,7 +13,7 @@
 
 ### Implementation Steps
 
-At first i connect the arduino and L298N ports as follow: 
+At first, I connect the Arduino and L298N ports as following: 
 | Arduino     | L298N |
 | ---      | ---       |
 | 13       | Enaple A  |
@@ -22,4 +22,7 @@ At first i connect the arduino and L298N ports as follow:
 | 10       | IN3       |
 | 9        | IN4       |
 | 8        | Enaple b  |
+
+
+After that, I connect the two motors in L298N ports [out1],[out2],[out3],[out4]
 
