@@ -27,5 +27,5 @@
 * connect the two motors in L298N ports `out1`,`out2`,`out3`,`out41`
 
 
-* connect the `**LIPO**` battery in L298N 
+* connect the ` ** LIPO ** ` battery in L298N 
 
