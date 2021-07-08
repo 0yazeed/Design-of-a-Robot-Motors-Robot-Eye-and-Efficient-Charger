@@ -1,4 +1,9 @@
-#controlling robot motors using L298N+
+# Controlling robot motors using L298N
 
 
-dd
+### Used equipments
+
+* Arduino
+* L298N Motor Driver
+* 2 motors 
+* *11.1 V && 2200mAH* battery 
