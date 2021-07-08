@@ -8,7 +8,7 @@
 ### Implementation Steps
 * 78L05 regulator, for step down the voltage to 5v 
 * two LED, to work as the eye of the robot 
-* resistor, to fix current, the appropriate current for led is between 10mA -30mA, so I chose 11mA to save power
+* resistor, to adjust current, the appropriate current for led is between 10mA -30mA, so I chose 11mA to save power
 * 9v battery 
 * transistor, to work as a switch 
 * Arduino, to control transistor 

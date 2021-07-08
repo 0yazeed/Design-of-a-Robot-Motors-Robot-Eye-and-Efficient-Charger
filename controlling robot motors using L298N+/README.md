@@ -13,7 +13,7 @@
 
 ### Implementation Steps
 
- connect the Arduino and L298N ports as following: 
+ Connect the Arduino and L298N ports as following: 
 | Arduino  | L298N     |
 | ---      | ---       |
 | 13       | Enaple A  |
@@ -24,10 +24,10 @@
 | 8        | Enaple b  |
 
 
-* connect the two motors in L298N ports `out1`,`out2`,`out3`,`out41`
+* Connect the two motors in L298N ports `out1`,`out2`,`out3`,`out41`
 
 
-* connect the `  LIPO  ` battery in L298N 
+* Connect the `  LIPO  ` battery in L298N 
 
 * The final step is Writing the code:
 
