@@ -6,14 +6,14 @@
 
 
 ### Implementation Steps
-* 78L05 regulator, for step down the voltage to 5v 
-* two LED, to work as the eye of the robot 
-* resistor, to adjust current, the appropriate current for led is between 10mA -30mA, so I chose 11mA to save power
-* 9v battery 
-* transistor, to work as a switch 
-* Arduino, to control transistor 
+* 78L05 regulator, for step down the voltage to 5v.
+* two LED, to work as the eye of the robot. 
+* resistor, to adjust current, the appropriate current for led is between 10mA -30mA, so I chose 11mA to save power.
+* 9v battery. 
+* transistor, to work as a switch. 
+* Arduino, to control transistor. 
 
-* code designed to off and on switch 60 times in a second to save power
+* code designed to off and on switch 60 times in a second to save power.
 
 ```
 void setup() {
