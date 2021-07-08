@@ -2,7 +2,7 @@
 
 
 
-### this is a circuit design to transform 9v power supply to 5v for feed power to LED and controlled by Arduino
+### This is a circuit design to transform 9v power supply to 5v for feed power to LED and controlled by Arduino
 
 
 ### Implementation Steps
